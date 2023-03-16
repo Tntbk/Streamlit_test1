@@ -69,7 +69,6 @@ def load_model_resource():
 
 USERS = {
             'test@localhost.com',
-            'thanhnguyen187201@gmail.com',
             'trinhntrung@gmail.com'
         }
 server = st.secrets["server"]
