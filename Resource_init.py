@@ -69,7 +69,7 @@ def load_model_resource():
 
 USERS = {
             'test@localhost.com',
-            'trinhntrung@gmail.com'
+            'trung.trinh@sintef.no'
         }
 server = st.secrets["server"]
 database = st.secrets["database"]
